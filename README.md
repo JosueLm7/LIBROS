@@ -1,7 +1,7 @@
 # PROYECTO LIBROS
-| Integrante:             |
-|-------------------------|
-| Lorenzo Masgo Josue Elí |
+| Integrante:         |
+|---------------------|
+| Lorenzo Masgo Josue |
 
 El CODIGO LIBRO, es un programa que proporciona una biblioteca básica para organizar libros
 
